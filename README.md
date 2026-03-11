@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm Haris Waheed
 
-I'm a 5th-semester Software Engineering student with a strong focus on **Backend Development** and **Database Architecture**. I enjoy taking complex, real-world requirements and translating them into clean, efficient, and scalable code using Python. 🚀
+I'm a Software Engineering student with a strong focus on **Backend Development** and **Database Architecture**. I enjoy taking complex, real-world requirements and translating them into clean, efficient, and scalable code using Python. 🚀
 
 ** What I do & what I'm focused on:**
 *  **Object-Oriented Programming (OOP):** Solid foundation and practical experience applying clean OOP principles in Python.
